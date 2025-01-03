@@ -1,0 +1,18 @@
+Exercices sur les fonctions :
+
+1) Créer une fonction eurosDollars, qui prends en paramètre un prix en euros, et renvoi le prix en dollars (Taux de conversion fixe)
+2) Créer une fonction calculerPrix, qui prends deux paramètres : Un prix de base, et une réduction en pourcentage. La fonction doit renvoyer le prix final
+3) Créer une fonction sommePanier, qui prends en paramètre une liste de prix d'articles, et retourne la somme des articles (Le prix total du panier)
+
+Exercices sur les formulaires :
+
+1) Créer un formulaire comprenant un nom, prénom et la date
+2) Envoyer les données en POST, et les afficher sur une seconde page
+3) Si l'un des champs est vide, bloquer l'envoi.
+4) Vérifier que la date est valide (Entre 0 et 100)
+
+Exercices sur les bases de données :
+
+1) Créer une bases de données "transports", présentant différents types de transports (id, nom, prix, photo, presentation, ...)
+2) Créer une page index.php, listant les différents transports enregistrés
+3) Ajouter un formulaire de recherche, qui redirige vers search.php?recherche=bateau pour rechercher par nom
